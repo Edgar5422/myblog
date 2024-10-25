@@ -4,3 +4,14 @@
 
 layout: home
 ---
+
+# Bienvenidos a Mi Blog Personal
+
+¡Hola! Soy **Edgar Díaz Martínez**. Este blog está dedicado a temas de _tecnología_, _desarrollo web_, y mucho más.
+
+## Contenidos Principales
+Aquí podrás encontrar:
+
+- **Proyectos** y desarrollos personales.
+- **Tutoriales** sobre diversas tecnologías.
+- _Consejos_ sobre el mundo de **sistemas informáticos y redes**.
