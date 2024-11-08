@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ICantabria
+title:  Cantabria
 categories: jekyll update
 ---
 

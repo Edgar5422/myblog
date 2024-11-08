@@ -13,9 +13,6 @@ layout: home
 ## 🎓 Sobre Mí
 ¡Hola! Soy Edgar Díaz Martínez, estudiante apasionado de **ASIR** (Administración de Sistemas Informáticos en Red). Nací en Cantabria, en la hermosa región de los Valles Pasiegos, y tengo 22 años. En este blog, comparto mis experiencias, conocimientos y proyectos en el área de la informática y redes.
 
-![Cantabria](https://upload.wikimedia.org/wikipedia/commons/7/7b/Cantabria.jpg)
-*La belleza de Cantabria, mi tierra natal.*
-
 ---
 
 ## 📚 Formación Académica
@@ -55,18 +52,6 @@ Aquí están algunas de las herramientas y lenguajes que manejo:
 
 ---
 
-## 🌆 Galería de Proyectos y Experiencias
-
-![Trabajo en Red](https://upload.wikimedia.org/wikipedia/commons/e/e7/Network_cabling.jpg)
-*Configurando una red segura y escalable.*
-
-![Servidor Linux](https://upload.wikimedia.org/wikipedia/commons/3/3a/Linux_console.jpg)
-*Trabajando en la configuración de un servidor Linux.*
-
-![Simulación en Packet Tracer](https://upload.wikimedia.org/wikipedia/commons/9/98/Cisco_Packet_Tracer.jpg)
-*Diseñando una red en Packet Tracer.*
-
----
 
 ## 📝 Últimas Publicaciones
 
