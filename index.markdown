@@ -88,8 +88,7 @@ Aquí están algunas de las herramientas y lenguajes que manejo:
 
 ¡Gracias por visitar mi blog! No dudes en contactarme si tienes preguntas o quieres conectar:
 
-- **Correo electrónico**: [edgar.diaz@example.com](mailto:edgar.diaz@example.com)
-- **LinkedIn**: [Edgar Díaz Martínez](https://www.linkedin.com/in/edgar-diaz/)
+- **Correo electrónico**: [ediazm03@educantabria.es](mailto:ediazm03@educantabria.es)
 
 ---
 
